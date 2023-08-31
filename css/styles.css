@@ -11082,7 +11082,7 @@ footer a:hover, footer a:active, footer a:focus {
 
 .masthead {
   background-color: #f8f9fa;
-  padding-top: 9.5rem;
+  padding-top: 2rem;
   padding-bottom: 5rem;
 }
 .masthead .masthead-device-mockup {
@@ -11199,5 +11199,8 @@ footer a:hover, footer a:active, footer a:focus {
   .img-hp{
     width: 100%;
     height: auto;
+  }
+  .masthead {
+    padding-top: 9.5rem;
   }
 }
