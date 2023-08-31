@@ -4352,8 +4352,8 @@ textarea.form-control-lg {
   --bs-accordion-btn-focus-box-shadow: 0 0 0 0.25rem rgba(41, 55, 240, 0.25);
   --bs-accordion-body-padding-x: 1.25rem;
   --bs-accordion-body-padding-y: 1rem;
-  --bs-accordion-active-color: #2532d8;
-  --bs-accordion-active-bg: #eaebfe;
+  --bs-accordion-active-color: #159215;
+  --bs-accordion-active-bg: #eafeeb;
 }
 
 .accordion-button {
@@ -11163,4 +11163,24 @@ footer a:hover, footer a:active, footer a:focus {
   .masthead .masthead-device-mockup .device-wrapper {
     max-width: 17rem;
   }
+}
+
+.faq-container{
+  max-width: 1000px;
+  margin: auto;
+  min-height: 80vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.privacy-container{
+  max-width: 1000px;
+  margin: auto;
+  min-height: 80vh;
+  padding-top: 120px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
