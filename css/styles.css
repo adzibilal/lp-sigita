@@ -11173,6 +11173,8 @@ footer a:hover, footer a:active, footer a:focus {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  padding-top: 120px;
+
   padding-left: 20px;
   padding-right: 20px;
 }
@@ -11192,6 +11194,9 @@ footer a:hover, footer a:active, footer a:focus {
 @media only screen and (max-width: 900px) {
   .img-laptop{
     margin-top: 40px;
+    width: 100%;
+  }
+  .img-hp{
     width: 100%;
   }
 }
