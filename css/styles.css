@@ -11173,6 +11173,8 @@ footer a:hover, footer a:active, footer a:focus {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  padding-left: 20px;
+  padding-right: 20px;
 }
 .privacy-container{
   max-width: 1000px;
@@ -11183,4 +11185,13 @@ footer a:hover, footer a:active, footer a:focus {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+@media only screen and (max-width: 900px) {
+  .img-laptop{
+    margin-top: 40px;
+    width: 100%;
+  }
 }
