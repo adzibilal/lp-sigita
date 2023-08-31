@@ -11198,5 +11198,6 @@ footer a:hover, footer a:active, footer a:focus {
   }
   .img-hp{
     width: 100%;
+    height: auto;
   }
 }
