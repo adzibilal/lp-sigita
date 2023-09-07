@@ -11204,3 +11204,10 @@ footer a:hover, footer a:active, footer a:focus {
     padding-top: 9.5rem;
   }
 }
+
+.hub-admin{
+  position: fixed;
+  z-index: 9999;
+  bottom: 10px;
+  left: 30px;
+}
