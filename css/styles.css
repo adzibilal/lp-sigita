@@ -11211,3 +11211,7 @@ footer a:hover, footer a:active, footer a:focus {
   bottom: 10px;
   left: 30px;
 }
+
+.tambahDiv{
+  cursor: pointer;
+}
